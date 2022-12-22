@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(5, 5, 65);
+}
+section {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.num {
+    background-color: #6440fb;
+    border-radius: 12px;
+    border: 0 solid;
+    outline: none;
+    color: white;
+    margin: 10px 20px;
+    padding: 5px 10px;
+    width: 60px;
+}
+.plus {
+    margin-top: 10px;
+    font-size: 18px;
+    color: white;
+}
+.btn-result {
+    background-color: #6440fb;
+    color: white;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 0 solid;
+    outline: none;
+    padding: 5px 10px;
+}
+.result {
+    background-color: #6440fb;
+    color: white;
+    margin: 10px;
+    padding: 10px 10px 0 10px;
+    border: 0 solid;
+    border-radius: 12px;
+}
